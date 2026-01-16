@@ -1,1 +1,1 @@
-# Default_Constructor_in_Java
+# Default_Constructor_in_Java A default constructor in Java is a constructor that is automatically provided by the Java compiler when no constructor is explicitly defined in a class. It initializes the object and assigns default values to instance variables. If a programmer defines any constructor, the compiler will not generate the default constructor.
